@@ -13,4 +13,8 @@ public class Barsyc {
         name = "Барсик";
         color = "руденький";
     }
+
+    void sayHello() {
+        System.out.println("Привіт! Я " + name + " і я маю " + color + " колір шерсті.");
+    }
 }
