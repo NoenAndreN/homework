@@ -14,7 +14,12 @@ public class Lutra {
     }
 
 
-
+    public String getColor (){
+        return color;
+    }
+    public void setColor(String color) {
+        this.color = color;
+    }
 
     void sayHello() {
 
