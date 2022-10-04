@@ -16,5 +16,8 @@ public class Lutra {
 
 
 
+    void sayHello() {
 
+        System.out.println("Привіт! Я " + name + " і я маю " + color + " колір шерсті.");
+    }
 }
