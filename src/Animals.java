@@ -5,6 +5,11 @@ public class Animals {
         Lutra lutra = new Lutra();
         lutra.sayHello();
 
+        Snowy snowy = new Snowy();
+        snowy.sayHello();
+
+        Barsyc barsyc = new Barsyc();
+        barsyc.sayHello();
     }
 }
 
