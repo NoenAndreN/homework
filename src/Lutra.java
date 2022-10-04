@@ -5,6 +5,15 @@ public class Lutra {
     private String color;
 
 
+    public Lutra (String color) {
+        color = color;
+    }
+    public Lutra() {
+        name = "Видра річкова";
+        color = "коричневий";
+    }
+
+
 
 
 
